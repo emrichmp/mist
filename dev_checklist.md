@@ -1,5 +1,6 @@
 # To Do
 [] - Use thunk for fetches
-[] - Use component did mount for those fetches
+[] - Use componentdidmount for those fetches
+
 
 # Breakdown
