@@ -10,5 +10,6 @@
 [] - program uses if statements to let user know what to wear
 [] - create custom tab logo
 [] - React router?
+[] - have theme change based on night or day
 
 # Breakdown
