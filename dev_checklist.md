@@ -5,5 +5,6 @@
 [] - User can input a location
 [] - Show current weather and 5 day forecast
 [] - Refresh button that will re-fetch
+[] - perhaps use styled component/other types of styling that's not CSS
 
 # Breakdown
