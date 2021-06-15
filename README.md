@@ -8,6 +8,8 @@ Additionally mist is another way for me to practice my React/Redux/Thunk. If you
 ## Technologies/App Breakdown
 mist uses React/Redux/Thunk to display data from the weather API!
 
+## Planning & User Stories
+
 ## License
 Copyright 2021 Emrich-Michael Perrier
 
