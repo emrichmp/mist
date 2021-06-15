@@ -7,5 +7,6 @@
 [] - Refresh button that will re-fetch
 [] - perhaps use styled component/other types of styling that's not CSS
 [] - create design plan
+[] - program uses if statements to let user know what to wear
 
 # Breakdown
