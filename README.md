@@ -1,4 +1,4 @@
-# mist
+# mist - An aesthetic weather viewer
 
 ## Welcome!
 mist is a React/Redux/Thunk frontend app that pulls from "some" API. The function of mist is to show you the weather and additionally tell the user a clothing recommendation. Goal of mist is to be a beautiful and aesthetic way for users to see the weather.
