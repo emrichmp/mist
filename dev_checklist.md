@@ -19,3 +19,4 @@ Main page
     - high temp/low temp
     - picture of weather (sunny,cloudy,rainy,snowy)
 5 day weather
+    - high and low of day
