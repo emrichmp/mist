@@ -14,3 +14,7 @@
 
 # Breakdown
 Break projects into parts here
+Main page
+    - current temp
+    - high temp/low temp
+    - picture of weather (sunny,cloudy,rainy,snowy)
