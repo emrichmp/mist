@@ -22,4 +22,4 @@ Main page
     - high and low of day
     - picture of weather and desc
 Background
-    
+    - Pretty picture in background
