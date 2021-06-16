@@ -24,3 +24,4 @@ Main page
 Background
     - Pretty picture in background
 What to wear
+    - Messaging saying what to wear based off of weather
