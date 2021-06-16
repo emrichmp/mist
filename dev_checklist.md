@@ -18,3 +18,4 @@ Main page
     - current temp
     - high temp/low temp
     - picture of weather (sunny,cloudy,rainy,snowy)
+5 day weather
