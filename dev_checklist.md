@@ -23,3 +23,4 @@ Main page
     - picture of weather and desc
 Background
     - Pretty picture in background
+What to wear
